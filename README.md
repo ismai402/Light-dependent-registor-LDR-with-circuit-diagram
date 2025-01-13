@@ -1,0 +1,1 @@
+# Light-dependent-registor-LDR-with-circuit-diagram
